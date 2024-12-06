@@ -104,7 +104,8 @@ Before proceeding with this tutorial, ensure that you have the following:
    docker stop firebird
    docker rm firebird
    ```
-
+## video
+https://github.com/user-attachments/assets/a84655f3-fd35-47a1-af05-9dbb08665a84
 ---
 
 ## Conclusion:
